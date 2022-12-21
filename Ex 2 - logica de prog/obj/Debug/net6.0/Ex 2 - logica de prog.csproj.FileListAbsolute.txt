@@ -1,0 +1,15 @@
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\bin\Debug\net6.0\Ex 2 - logica de prog.exe
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\bin\Debug\net6.0\Ex 2 - logica de prog.deps.json
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\bin\Debug\net6.0\Ex 2 - logica de prog.runtimeconfig.json
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\bin\Debug\net6.0\Ex 2 - logica de prog.dll
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\bin\Debug\net6.0\Ex 2 - logica de prog.pdb
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\obj\Debug\net6.0\Ex 2 - logica de prog.csproj.AssemblyReference.cache
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\obj\Debug\net6.0\Ex 2 - logica de prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\obj\Debug\net6.0\Ex 2 - logica de prog.AssemblyInfoInputs.cache
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\obj\Debug\net6.0\Ex 2 - logica de prog.AssemblyInfo.cs
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\obj\Debug\net6.0\Ex 2 - logica de prog.csproj.CoreCompileInputs.cache
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\obj\Debug\net6.0\Ex 2 - logica de prog.dll
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\obj\Debug\net6.0\refint\Ex 2 - logica de prog.dll
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\obj\Debug\net6.0\Ex 2 - logica de prog.pdb
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\obj\Debug\net6.0\Ex 2 - logica de prog.genruntimeconfig.cache
+C:\Users\Toric\Desktop\Curso C#.NET\Exercicios Curso CsCode 958\Exercicio 2  - Logica de prog\Ex 2 - logica de prog\Ex 2 - logica de prog\obj\Debug\net6.0\ref\Ex 2 - logica de prog.dll
